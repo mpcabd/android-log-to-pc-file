@@ -9,7 +9,7 @@ http://mpcabd.igeex.biz/log-to-a-file-on-computer-in-android/
 This work is licensed under [GNU General Public License v3](http://www.gnu.org/licenses/gpl.txt).
 
 #    Download
-*    Source Code:  	https://github.com/mpcabd/android-map-view-pan-zoom/tarball/master
+*    Source Code:  	https://github.com/mpcabd/android-log-to-pc-file/tarball/master
 
 #    Contact
 *    Abd Allah Diab (mpcabd)
